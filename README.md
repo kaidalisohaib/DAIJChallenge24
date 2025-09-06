@@ -8,9 +8,9 @@ An in-depth data analysis and visualization project exploring the complex relati
 
 [DEVPOST - D.AI Data Journalism Challenge 2024 Honorable mention: Technical Award](https://devpost.com/software/awareness-of)
 
-![](./assets/original.png)
-![](./assets/original1.png)
-![](./assets/original2.png)
+![](https://raw.githubusercontent.com/kaidalisohaib/DAIJChallenge24/refs/heads/main/assets/original.png)
+![](https://raw.githubusercontent.com/kaidalisohaib/DAIJChallenge24/refs/heads/main/assets/original1.png)
+![](https://raw.githubusercontent.com/kaidalisohaib/DAIJChallenge24/refs/heads/main/assets/original2.png)
 
 **Live Project Report:** [View the Deployed Report](https://kaidalisohaib.github.io/DAIJChallenge24/)  
 
